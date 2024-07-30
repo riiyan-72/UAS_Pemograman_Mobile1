@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871897441681",
+    "project_id": "uaspm-aa55c",
+    "storage_bucket": "uaspm-aa55c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871897441681:android:e534245ad85bf3c7f5e630",
+        "android_client_info": {
+          "package_name": "com.example.uaspm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1f7p2-AsbyIZGGXYkSVygorGu-Pq8PkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
